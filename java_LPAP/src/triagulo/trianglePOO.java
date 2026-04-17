@@ -6,7 +6,7 @@ mais vezes em outros lugares.
 ===> Aqui por exemplo estamos criando as variáveis para outro código.
 */
 
-import triagulo;
+
 
 public class trianglePOO {
 
